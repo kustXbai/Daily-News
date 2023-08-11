@@ -3,6 +3,10 @@
 技术栈：html、sass、JavaScript、vue2、uniapp
 主要成果：完成下拉触底加载效果，利用StorageSync读写缓存渲染浏览记录页面，对于浏览记录进行数组去重优化。
 自定义校验规则，对于登录时电话号码的长度进行校验。
+
+
+
+
 首页模块展示
 ![image](https://github.com/kustXbai/Daily-News/assets/117620855/e3579e6d-54fd-4a21-9700-c933bc32e998)
 详情页展示
